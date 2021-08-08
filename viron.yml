@@ -1,0 +1,8 @@
+name: libdevicedata
+api: 4.0.0
+author: VixikHD
+description: Simple library which saves player device
+version: 1.0.0
+antigen: happype\openapi\libdevicedata
+
+php: [7.4, 8.0]
